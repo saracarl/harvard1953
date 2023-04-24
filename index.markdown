@@ -6,21 +6,27 @@ layout: home
 ---
 <p align="center"><img align="right" width="35%" height="35%" src="fullsizeoutput_1950e.jpeg"/></p>
 
-## August 3, 1953
+## August 3, 1953 --testing
 ### Evening
 <ul style="list-style-type:none;">
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Introduction to Carvel Collins</a>, William Elliot Yardell</li> 
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Conference Opening Remarks</a>, Carvel Collins</li>
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Lecture: "New Trends in the Contemporary Novel," </a>Stanley Hyman</li> 
-<li style="list-style-type:none;">Lecture: "The Modern Novel," Frank O'Connor, [Part One](https://tanyaclement.github.io/harvard1953/august-3-evening-part-one) and [Part Two](https://tanyaclement.github.io/harvard1953/august-3-evening-part-two)</li>
-<li style="list-style-type:none;">[Response to Hyman and O'Connor](https://tanyaclement.github.io/harvard1953/august-3-evening-part-two), Anthony West</li>
-<li style="list-style-type:none;">[Panel Discussion](https://tanyaclement.github.io/harvard1953/august-3-evening-part-two)</li> </ul>
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Lecture: "New Trends in the Contemporary Novel,"</a> Stanley Hyman</li> 
+<li style="list-style-type:none;">Lecture: "The Modern Novel," Frank O'Connor, <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Part Two</a>
+ </li>
+ <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Response to Hyman and O'Connor</a>, Anthony West</li>
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Panel Discussion</a></li>
+</ul>
 
 ## August 4, 1953
-### Afternoon:
-<ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/Harvard-1953/session-introduction-frohock-lecture-august-4">Session Introduction</a>, Carvel Collins</li>
-<li style="list-style-type: none;"><a href="https://tanyaclement.github.io/Harvard-1953/session-introduction-frohock-lecture-august-4">Lecture</a>, W. M. Frohock</li>
-<li style="list-style-type: none;">Panel Discussion <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-one">Part One</a>, <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-two">Part Two</a>, and <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-three">Part Three</a> </li></ul>
+### Afternoon
+<ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Session Introduction</a>, Carvel Collins</li>
+<li style="list-style-type: none;">Lecture, W. M. Frohock, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part Two</a></li>
+<li style="list-style-type: none;">Panel Discussion <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a> 
+ </li>
+
+ 
+</ul>
 
 ### Evening:
 <ul style="list-style-type: none;">
@@ -40,5 +46,5 @@ layout: home
 <ul style="list-style-type: none;">
 <li>Opening Remarks, Carvel Collins	</li>
 <li>Lecture: "Paperback Books and the Writer," Hilda Livingston</li>
-<li>Lecture: "The Editor and The Author," William Sloan</li>
+<li>Lecture: "The Editor and The Author," William Sloane</li>
 <li>Roundtable Discussion</li> </ul>
